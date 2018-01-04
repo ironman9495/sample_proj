@@ -1,5 +1,5 @@
 {
-  "name": "base64_utility",
+  "name": "sample_proj",
   "version": "0.0.1",
   "description": "A small library for base64 encoding and decoding",
   "main": "index.js",
