@@ -1,25 +1,15 @@
 {
   "name": "sample_proj",
   "version": "0.0.1",
-  "description": "A small library for base64 encoding and decoding",
+  "description": "Generate Coins with the Homescapes Hack",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+github.com/ironman9495/sample_proj.git",
-    "readme": "README.md",
-    "private": true
+    "test": " "
   },
   "keywords": [
-    "demo",
-    "package"
+    "Homescapes Hack",
+	"Homescapes Hack Tool"
   ],
-  "author": "Naveen Kumar <ironman9495@gmail.com> (http://raajnseodevs.com)",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/ironman9495/sample_proj/issues"
-  },
-  "homepage": "https://github.com/ironman9495/sample_proj#readme"
+  "author": "master",
+  "license": "ISC"
 }
