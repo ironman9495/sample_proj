@@ -11,9 +11,8 @@
     "url": "git+github.com/ironman9495/sample_proj.git"
   },
   "keywords": [
-    "base64",
-    "encode",
-    "decode"
+    "demo",
+    "package"
   ],
   "author": "Naveen Kumar <ironman9495@gmail.com> (http://raajnseodevs.com)",
   "license": "MIT",
