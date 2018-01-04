@@ -8,7 +8,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+github.com/ironman9495/sample_proj.git"
+    "url": "git+github.com/ironman9495/sample_proj.git",
+    "readme": "README.md",
     "private": true
   },
   "keywords": [
